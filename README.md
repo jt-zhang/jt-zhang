@@ -6,4 +6,4 @@ I am a first-year PhD student in the CS Dept. at Tsinghua University, focusing o
 
 <!-- - 🚙 I enjoy self-driving and have traveled in [Chile, California, Qinghai, Yunnan, Ningxia, Inner Mongolia, Jiangsu, Hebei, Liaoning, Anhui, Shanxi, Zhejiang, Shanghai, and Beijing]. -->
 
-- <img src="./assets/wechat_icon.png" alt="WeChat" title="WeChat" width="3.6%"> : **Zjt_Tete**
+- <img src="./assets/wechat_icon.png" alt="WeChat" title="WeChat" width="3.6%"> **ID : Zjt_Tete**
